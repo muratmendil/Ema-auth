@@ -1,0 +1,6 @@
+#SSL properties
+
+spring:
+  datasource:
+    url: jdbc:mysql://authdatabase:3306/ema_auth?autoReconnect=true&useSSL=false
+    
